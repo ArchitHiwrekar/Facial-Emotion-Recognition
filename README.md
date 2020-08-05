@@ -4,8 +4,7 @@ The objective was to classify faces based on the emotion shown in the facial exp
 Program is trained for 15 epochs and runs at 63% accuracy.
 
 # Dependencies:
-
-pip install numpy
+$ pip install numpy
 
 pip install pandas
 
