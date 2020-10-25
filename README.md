@@ -30,4 +30,14 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 **Download haarcascades file from here**=> 
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
+Neutral
+![alt text](https://user-images.githubusercontent.com/40892667/97115344-4b03de80-171c-11eb-9abf-cad0d5a11ba6.png)
+
+Happy
 ![alt text](https://user-images.githubusercontent.com/40892667/97115336-46d7c100-171c-11eb-9d29-52d10d8602ab.png)
+
+Sad
+![alt text](https://user-images.githubusercontent.com/40892667/97115340-49d2b180-171c-11eb-9a17-18f1bb1cab08.png)
+
+
+
